@@ -54,7 +54,8 @@ Blockquotes can contain other Markdown elements, including headers, lists, and c
 >     return shell_exec("echo $input | $markdown_script");
 
 ***
-*Lists*
+
+## Lists
 
 Markdown supports ordered (numbered) and unordered (bulleted) lists.
 
