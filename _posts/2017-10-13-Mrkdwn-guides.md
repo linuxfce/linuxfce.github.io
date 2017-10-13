@@ -6,6 +6,8 @@ When you do want to insert a <br /> break tag using Markdown, you end a line wit
 
 This is a regular paragraph.
 
+And the equivalent HTML tags for a simple paragraph.
+
 <table>
     <tr>
         <td>Foo</td>
