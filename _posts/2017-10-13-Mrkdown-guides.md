@@ -13,7 +13,7 @@ This is a regular paragraph.
 </table>
 
 This is another regular paragraph.
-
+***
 ## Blockquotes
 
 Markdown uses email-style > characters for blockquoting. If you’re familiar with quoting passages of text in an email message, then you know how to create a blockquote in Markdown. It looks best if you hard wrap the text and put a > before every line:
@@ -52,7 +52,7 @@ Blockquotes can contain other Markdown elements, including headers, lists, and c
 > Here's some example code:
 > 
 >     return shell_exec("echo $input | $markdown_script");
-
+***
 *Lists*
 
 Markdown supports ordered (numbered) and unordered (bulleted) lists.
@@ -185,12 +185,12 @@ To put a code block within a list item, the code block needs to be indented twic
 
 It’s worth noting that it’s possible to trigger an ordered list by accident, by writing something like this:
 
-1986.What a great season.
+1986. What a great season.
 
 In other words, a number-period-space sequence at the beginning of a line. To avoid this, you can backslash-escape the period:
 
 1986\. What a great season.
-
+***
 Code Blocks
 
 Pre-formatted code blocks are used for writing about programming or markup source code. Rather than forming normal paragraphs, the lines of a code block are interpreted literally. Markdown wraps a code block in both `<pre>` and `<code>` tags.
@@ -199,7 +199,7 @@ To produce a code block in Markdown, simply indent every line of the block by at
 
 This is a normal paragraph:
 
-    This is a code block.
+        This is a code block.
 
 Markdown will generate:
 
@@ -255,10 +255,12 @@ You can produce a horizontal rule tag (<hr />) by placing three or more hyphens,
 
 ---------------------------------------
 
-Span Elements
-Links
 
-Markdown supports two style of links: inline and reference.
+#### Span Elements
+
+*Links*
+
+Markdown supports two style of *links*: *inline* and *reference*.
 
 In both styles, the link text is delimited by [square brackets].
 
