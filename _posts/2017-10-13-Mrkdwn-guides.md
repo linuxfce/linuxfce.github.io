@@ -2,8 +2,22 @@
 layout: post
 title: Markdown syntax guide
 ---
+
 When you do want to insert a <br /> break tag using Markdown, you end a line with two or more spaces, then type return.
 
+***
+
+## Inline HTML
+
+**Markdown’s** syntax is intended for one purpose: to be used as a format for writing for the web.
+
+Markdown is not a replacement for HTML, or even close to it. Its syntax is very small, corresponding only to a very small subset of HTML tags. The idea is not to create a syntax that makes it easier to insert HTML tags. In my opinion, HTML tags are already easy to insert. The idea for Markdown is to make it easy to read, write, and edit prose. HTML is a publishing format; Markdown is a writing format. Thus, Markdown’s formatting syntax only addresses issues that can be conveyed in plain text.
+
+For any markup that is not covered by Markdown’s syntax, you simply use HTML itself. There’s no need to preface it or delimit it to indicate that you’re switching from Markdown to HTML; you just use the tags.
+
+The only restrictions are that block-level HTML elements — e.g. <div>, <table>, <pre>, <p>, etc. — must be separated from surrounding content by blank lines, and the start and end tags of the block should not be indented with tabs or spaces. Markdown is smart enough not to add extra (unwanted) <p> tags around HTML block-level tags.
+
+For example, to add an HTML table to a Markdown article
 This is a regular paragraph.
 
 And the equivalent HTML tags for a simple paragraph.
