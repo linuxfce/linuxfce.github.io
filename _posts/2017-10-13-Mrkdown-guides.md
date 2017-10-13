@@ -185,7 +185,7 @@ To put a code block within a list item, the code block needs to be indented twic
 
 It’s worth noting that it’s possible to trigger an ordered list by accident, by writing something like this:
 
-1986. What a great season.
+1986.What a great season.
 
 In other words, a number-period-space sequence at the beginning of a line. To avoid this, you can backslash-escape the period:
 
