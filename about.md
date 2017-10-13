@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the About Me section, I'm currently learning HTML,CSS,JScript, I work with Bootstrap,JQuery,currently learning how to host my blog with static pages (Jekill) on [GitHub](https://linuxfce.github.io/) so I can do simple websites or blogs for my friends and neighbours without the need to code or even maintaining a website with CMS or any databases.
+This is the About Me section, I'm currently learning HTML, CSS, JScript, I work with Bootstrap, JQuery, currently learning how to host my blog with static pages [Jekill](http://jekyllrb.com/docs/quickstart/) on [GitHub](https://linuxfce.github.io/) so I can do simple websites or blogs for my friends and neighbours maintaining a website without CMS or any databases or any coding skills.
 
 ### More Information
 
