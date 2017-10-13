@@ -10,7 +10,7 @@ This is the About Me section, I'm currently learning HTML, CSS, JScript, I work 
 
 ### More Information
 
-#### I'm also lerning how to code at [FreeCodeCamp](https://www.freecodecamp.org/linuxfce)
+#### I'm also learning how to code at [FreeCodeCamp](https://www.freecodecamp.org/linuxfce)
 
 ### Contact me
 
