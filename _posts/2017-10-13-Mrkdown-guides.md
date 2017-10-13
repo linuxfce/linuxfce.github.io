@@ -53,7 +53,7 @@ Blockquotes can contain other Markdown elements, including headers, lists, and c
 > 
 >     return shell_exec("echo $input | $markdown_script");
 
-Lists
+*Lists*
 
 Markdown supports ordered (numbered) and unordered (bulleted) lists.
 
@@ -148,7 +148,7 @@ will turn into:
 <li><p>Magic</p></li>
 </ul>
 
-List items may consist of multiple paragraphs. Each subsequent paragraph in a list item must be indented by either 4 spaces or one tab:
+*List* items may consist of multiple paragraphs. Each subsequent paragraph in a list item must be indented by either 4 spaces or one tab:
 
 1.  This is a list item with two paragraphs. Lorem ipsum dolor
     sit amet, consectetuer adipiscing elit. Aliquam hendrerit
@@ -193,7 +193,7 @@ In other words, a number-period-space sequence at the beginning of a line. To av
 
 Code Blocks
 
-Pre-formatted code blocks are used for writing about programming or markup source code. Rather than forming normal paragraphs, the lines of a code block are interpreted literally. Markdown wraps a code block in both <pre> and <code> tags.
+Pre-formatted code blocks are used for writing about programming or markup source code. Rather than forming normal paragraphs, the lines of a code block are interpreted literally. Markdown wraps a code block in both ```<pre> and ```<code> tags.
 
 To produce a code block in Markdown, simply indent every line of the block by at least 4 spaces or 1 tab. For example, given this input:
 
