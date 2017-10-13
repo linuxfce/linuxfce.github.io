@@ -258,9 +258,9 @@ You can produce a horizontal rule tag (<hr />) by placing three or more hyphens,
 ---------------------------------------
 
 
-#### Span Elements
+## Span Elements
 
-*Links*
+### Links
 
 Markdown supports two style of *links*: *inline* and *reference*.
 
@@ -416,7 +416,7 @@ To produce a literal asterisk or underscore at a position where it would otherwi
 
 \*this text is surrounded by literal asterisks\*
 
-Code
+## Code
 
 To indicate a span of code, wrap it with backtick quotes (`). Unlike a pre-formatted code block, a code span indicates code within a normal paragraph. For example:
 
@@ -463,10 +463,11 @@ to produce:
 <p><code>&amp;#8212;</code> is the decimal-encoded
 equivalent of <code>&amp;mdash;</code>.</p>
 
-Miscellaneous
-Automatic Links
+## Miscellaneous
 
-Markdown supports a shortcut style for creating “automatic” links for URLs and email addresses: simply surround the URL or email address with angle brackets. What this means is that if you want to show the actual text of a URL or email address, and also have it be a clickable link, you can do this:
+### Automatic Links
+
+**Markdown** supports a shortcut style for creating “automatic” links for URLs and email addresses: simply surround the URL or email address with angle brackets. What this means is that if you want to show the actual text of a URL or email address, and also have it be a clickable link, you can do this:
 
 <http://example.com/>
 
