@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown syntax guide
+title: Markdown syntax reference guide
 ---
 
 Markdown: Syntax
