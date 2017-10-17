@@ -6,6 +6,8 @@ title: Markdown syntax guide
 Markdown: Syntax
 ================
 
+This article was written by [John Gruber blog](https://daringfireball.net/projects/markdown/syntax) and I just posted in my blog, [Meiras site](https://linuxfce.github.io/Mrkdwn-guides/) to use it as a guide.
+
 *   [Overview](#overview)
     *   [Philosophy](#philosophy)
     *   [Inline HTML](#html)
