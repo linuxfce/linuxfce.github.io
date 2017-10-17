@@ -30,7 +30,7 @@ This article was written by [John Gruber blog](https://daringfireball.net/projec
 
 
 **Note:** This document is itself written using Markdown; you
-can [see the source for it by adding '.text' to the URL][src].
+can see the source for it by clicking in this [link][src].
 
   [src]: https://raw.githubusercontent.com/linuxfce/linuxfce.github.io/master/_posts/2017-10-13-Mrkdwn-guides.md
 
