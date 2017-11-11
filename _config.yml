@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Meiras
+name: Blog do Miguel
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Portugal based in London
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars0.githubusercontent.com/u/26042575?v=4&s=400&u=c016bde1e91dc9931349433f4b73313f09019f63
+avatar: https://avatars0.githubusercontent.com/u/26042575?s=400&u=9e5702963dec92740dc826121d09924ddab235cf&v=4
 
 
 #
@@ -19,15 +19,15 @@ avatar: https://avatars0.githubusercontent.com/u/26042575?v=4&s=400&u=c016bde1e9
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: mig.pc.repairs@gmail.com
   facebook:
   flickr:
   github: linuxfce/linuxfce.github.io
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  rss: My RSS Feeds
+  twitter: @luis_linuxfce
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
