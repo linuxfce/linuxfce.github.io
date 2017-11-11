@@ -20,4 +20,4 @@ I call myself a Web Developer which is not really true, I'm still learning HTML,
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:mig.pc.repairs@gmail.com)
