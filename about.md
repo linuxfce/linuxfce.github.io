@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: I'm a Web Developer from Portugal based in London
+subtitle: I'm a Front-End Developer (beginner) from Portugal based in London
 permalink: /about/
 ---
 
