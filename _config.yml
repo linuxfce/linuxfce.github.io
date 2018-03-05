@@ -6,7 +6,7 @@
 name: Miguel Code Blog
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Portugal based in London
+description: Front-End Developer from Portugal based in London
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/26042575?s=400&u=9e5702963dec92740dc826121d09924ddab235cf&v=4
@@ -21,12 +21,12 @@ page-col: "#D1D1D1"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: mig.pc.repairs@gmail.com
+  email: meiras.contact@gmail.com
   facebook:
   flickr:
   github: linuxfce/linuxfce.github.io
   instagram:
-  linkedin:
+  linkedin: luis-miguel-t-962b23157
   pinterest:
   rss: My RSS Feeds
   twitter: luis_linuxfce
